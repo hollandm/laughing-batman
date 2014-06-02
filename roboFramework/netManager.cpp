@@ -21,7 +21,7 @@ int netManager::openConnection() {
 
 	//TODO: Close udp socket
 
-	return;
+	return 0;
 }
 
 int netManager::recvConnection() {
@@ -31,5 +31,5 @@ int netManager::recvConnection() {
 	//TODO: open tcp connection to computer that sent handshake
 
 	//TODO: Close udp socket
-
+	return 0;
 }
