@@ -1,3 +1,6 @@
+# Private files (Passwords, tokens, keys, ect)
+*.private
+
 # Compiled Object files
 *.slo
 *.lo
