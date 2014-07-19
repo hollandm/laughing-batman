@@ -1,0 +1,8 @@
+C:\Users\Matt\Dropbox\roboPersonal\laughing-batman\slackApi\slackApi\bin\Debug\slackApi.exe.config
+C:\Users\Matt\Dropbox\roboPersonal\laughing-batman\slackApi\slackApi\obj\Debug\slackApi.exe
+C:\Users\Matt\Dropbox\roboPersonal\laughing-batman\slackApi\slackApi\obj\Debug\slackApi.pdb
+C:\Users\Matt\Dropbox\roboPersonal\laughing-batman\slackApi\slackApi\bin\Debug\slackApi.exe
+C:\Users\Matt\Dropbox\roboPersonal\laughing-batman\slackApi\slackApi\bin\Debug\slackApi.pdb
+C:\Users\Matt\Dropbox\roboPersonal\laughing-batman\slackApi\slackApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matt\Dropbox\roboPersonal\laughing-batman\slackApi\slackApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matt\Dropbox\roboPersonal\laughing-batman\slackApi\slackApi\obj\Debug\slackApi.csprojResolveAssemblyReference.cache
