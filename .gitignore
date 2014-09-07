@@ -22,3 +22,10 @@
 *.exe
 *.out
 *.app
+
+.idea/
+*.class
+*/out/production/*
+nerfAmbush/java/out/production/nerfAmbush/RXTXcomm.jar
+nerfAmbush/java/out/production/nerfAmbush/mp3spi1.9.5.jar
+nerfAmbush/java/out/production/nerfAmbush/jl1.0.1.jar
